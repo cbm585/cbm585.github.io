@@ -1,0 +1,72 @@
+h1 {
+    color: red;
+    font-size: 60px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+}
+h2 {
+    color: black;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Fjalla One', sans-serif;
+}
+h3 {
+    text-align: center;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    text-shadow: 2px 2px 2px black;
+}
+h4{
+    color:white;
+    font-size: 30px;
+    font-family: 'Fjalla One', sans-serif;
+}
+h6{
+    color:black;
+    font-size: 30px;
+    font-family: 'Fjalla One', sans-serif; 
+}
+body {
+    font-family: 'Fjalla One', sans-serif;
+}
+.row {
+    font-family: 'Fjalla One', sans-serif;
+    }
+.jumbotron {
+    background-image: url(1109-leg-press.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+form {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align:left;
+}
+.button {
+    display: block;
+    max-width: 300px;
+    margin: auto;
+}
+img{
+    vertical-align: middle;
+    width:100%;
+    height:100%;
+}
+.list-group-item{
+    border-style: dashed;
+}
+th{
+    background-color: aliceblue;
+    color:black
+}
+
